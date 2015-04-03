@@ -1,8 +1,8 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Jay Shah
+email:       jayshahtx@gmail.com
+author:      Jay Shah
+description: "Personal blog and projects"
 baseurl:     ""
 url:         "http://jayshahtx.github.io"
 

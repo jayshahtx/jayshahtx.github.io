@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Jay Shah
+title: Welcome!
 permalink: /about/
 ---
 
-({{site.url}}/assets/jayshah.jpg)
+![Jay Shah](/assets/jayshah.png)
+##
+##
 
 Hi there, my name is Jay and I'm a data scientist in Austin, TX. I'm passionate
 about machine learning and use this site to share some of my projects. I currently
@@ -16,3 +18,4 @@ In 2014 I graduated from UT Austin with degrees in CS and Business.
 
 If you find any of my posts interesting, feel free to drop a line at
 jayshahtx [at] gmail [dot] com or find me on Twitter @jayshahtx.
+
