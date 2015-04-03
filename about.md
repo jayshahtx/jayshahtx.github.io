@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Welcome!
 permalink: /about/
 ---
 
-![Jay Shah](/assets/jayshah.png)
-##
-##
+<img align="left" src="/assets/jayshah_circlepic.png"> 
+# Welcome!
 
 Hi there, my name is Jay and I'm a data scientist in Austin, TX. I'm passionate
 about machine learning and use this site to share some of my projects. I currently
