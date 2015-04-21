@@ -2,7 +2,7 @@
 layout:     post
 title:      Stock Markets and Signaling
 date:       2013-04-04 
-summary:    How Some College Kid Could Beat the Stock Market by 100%
+summary:    How some college kid doubled market returns
 ---
 
 The stock market is in some ways a promise land - a place where any individual, of any wealth, can try their luck in the financial markets. It is romanticized in rags to riches stories, idolized by millions of students, and open to anybody who has as little as $100 to invest. It is no surprise that the stock market is the first place profit-seeking academics flock to when they think they understand consumer behavior. I recently had my own idea (I guess I joined the bandwagon too) to see if I could beat the stock market. 
