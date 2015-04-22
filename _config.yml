@@ -52,7 +52,7 @@ sass:
   compressed: true
 
 # open graph
-og_image: /assets/jayshah_circilepic.png # Default image for Open Graph tag
+og_image: /assets/jayshah_circlepic.png # Default image for Open Graph tag
 og_image_type: image/png
 og_image_width: 300
 og_image_height: 300

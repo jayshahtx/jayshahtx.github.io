@@ -27,7 +27,7 @@
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:site_name" content="{{ site.title }}">
-    <meta property="og:image" content="{{site.url}}/assets/jayshah_circlepic.png">
+    <meta property="og:image" content="{{site.url}}{% if page.og_image %}{{ page.og_image }}{% else %}{{ site.og_image }}{% endif %}">
 
     <!-- Icons -->
     <link rel="apple-touch-icon" sizes="57x57" href="apple-touch-icon-57x57.png">
