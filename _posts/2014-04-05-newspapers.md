@@ -3,6 +3,7 @@ layout:     post
 title:      Dear Newspapers, Please Stop Ranking My School
 date:       2014-04-05 
 summary:    The academic intersection of popularity and counter-productivity
+thumbnail: /assets/jayshah_circlepic.png
 ---
 
 Dear Businessweek,
