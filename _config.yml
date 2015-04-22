@@ -5,7 +5,6 @@ author:      Jay Shah
 description: "Personal blog and projects"
 baseurl:     ""
 url:         "http://jayshahtx.github.io"
-image:       /assets/jayshah_circilepic.png 
 
 # Google analytics
 google_analytics:
