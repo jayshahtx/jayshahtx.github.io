@@ -13,7 +13,7 @@ permalink: /projects/
 * **Evaluating Approximations for Traveling Salesman Problem**
   - [[Paper](/assets/EmpiricalEvaluationOfTSP.pdf)]
 
-* **Improving Fuel Cell Electrolye Efficiency**
+* **Improving Fuel Cell Electrolyte Efficiency**
     - 2009 Siemens Competition Semifinalist [[Paper](/assets/JayShah_Synthesis_Study_Cs5.pdf)]
 
 

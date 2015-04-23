@@ -6,7 +6,7 @@ permalink: /about/
 <img align="left" src="/assets/jayshah_circlepic.png"> 
 # Welcome!
 Hi there, my name is Jay and I'm a data scientist in Austin, TX. I'm passionate
-about machine learning and use this site to share some of my projects. I currently run [Bayes Consulting](www.bayesconsulting.io), a machine learning consultancy based out of Austin. 
+about machine learning and use this site to share some of my projects. I currently run [Bayes Consulting](http://www.bayesconsulting.io), a machine learning consultancy based out of Austin. 
 
 <br>
 Before founding Bayes Consulting, I worked in a few research labs,
