@@ -6,7 +6,7 @@ permalink: /projects/
 #Academic
 
 * **CallScout** 
-    - 1st Place/$100K Winner of IBM Watson Competition [[Demo](https://www.youtube.com/watch?v=GFsc0B6DN8s)] [[Press](http://www.utexas.edu/news/2015/01/16/students-win-ibm-watson-competition/)]
+    - 1st Place/$100K Winner of IBM Watson Competition [[Demo](https://www.youtube.com/watch?v=GFsc0B6DN8s)] [[Press](https://www-03.ibm.com/press/us/en/pressrelease/45861.wss)]
 * **What Does McDonald’s Say About Your City?**
     - Exploring Yelp reviews to predict diabetes rates [[Link](/assets/mcdonalds_report.pdf)]
 
