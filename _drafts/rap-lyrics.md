@@ -26,11 +26,17 @@ Rap is pretty notorious for its foul lyrics. One of the first questions I wanted
     <script data-plotly="jayshahtx:85" src="https://plot.ly/embed.js" async></script>
 </div>
 
-It's a little noisy, but it looks like rap has increased in its profanity - at least rap that is popular. I was surprised by this trend, I distinctly recall very vulgar songs from the 90s. Perhaps profanity and vulgarity are not interchangeable. Let's cut the data differently.
+It's a little noisy, but it looks like rap has increased in its profanity. I was surprised by this trend, I distinctly recall very vulgar songs from the 90s. Perhaps profanity and vulgarity are not interchangeable. Let's cut the data differently.
 
 # Misogyny isn't as cool as it used to be
 
-Let's introduce a metric to guage how often women are referenced. How often is a woman's name mentioned in a song? Rappers casually reference girls' names
+Let's introduce a metric to guage how often women are referenced.Rappers casually reference girls' names in a sexually explicit or misogynistic way ([Petey Pablo](http://genius.com/Petey-pablo-freek-a-leek-lyrics) I'm looking at you). How often is a woman's name mentioned in a song?
+
+<div>
+    <a href="https://plot.ly/~jayshahtx/120/" target="_blank" title="Expletives, Female Names per Song" style="display: block; text-align: center;"><img src="https://plot.ly/~jayshahtx/120.png" alt="Expletives, Female Names per Song" style="max-width: 100%;width: 936px;"  width="936" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="jayshahtx:120" src="https://plot.ly/embed.js" async></script>
+</div>
+
 
 
 
