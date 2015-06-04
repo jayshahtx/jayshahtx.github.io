@@ -4,7 +4,7 @@ email:       jayshahtx@gmail.com
 author:      Jay Shah
 description: "Personal blog and projects"
 baseurl:     ""
-url:         ""
+url:         "http://jayshah.me"
 
 # Google analytics
 google_analytics: UA-63732665-1
