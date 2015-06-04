@@ -42,7 +42,7 @@ This is the problem with rap lyrics - it is incredibly difficult to characterize
 
 It seems the jury is still out on whether it's acceptable for rappers to be in touch with their sentimental side. Drake is consistently made fun for being sentimental, yet he has shattered records with [impressive sales numbers](http://en.wikipedia.org/wiki/Drake_discography). After the blunts have been exchanged, alcohol consumed, and currency accounted for, is it really cool to be an emotional monogamist? To answer this question, I wanted to see how rappers use the word "love" in their lyrics and contrast it to their perception.
 
-The graph below looks at what rappers state they "love" the most in their 5 most popular songs, highlighting the likelihood that the word "love" is followed by either "you" or "me". For example, 20% of the time Twista uses the word "love", he follows it with "you". The rest of the time, it's followed by words othern than "me" or "you" (IE: "I love money", etc).
+The graph below looks at what rappers state they "love" the most in their 5 most popular songs, highlighting the likelihood that the word "love" is followed by either "you" or "me" in their lyrics. For example, 20% of the time Twista uses the word "love", he follows it with "you". The rest of the time, it's followed by words othern than "me" or "you" (IE: "I love money", etc).
 
 ![](/assets/post5_chart5.png)
 
