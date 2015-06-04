@@ -3,8 +3,8 @@ title:       Jay Shah
 email:       jayshahtx@gmail.com
 author:      Jay Shah
 description: "Personal blog and projects"
-baseurl:     ""
-url:         "jayshah.me"
+baseurl:     "www.jayshah.me"
+url:         ""
 
 # Google analytics
 google_analytics: UA-63732665-1
