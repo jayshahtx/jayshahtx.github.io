@@ -26,11 +26,11 @@ It's fairly noisy, but it looks like rap has gradually increased in profanity ov
 
 # Misogyny isn't as cool as it used to be
 
-Let's introduce a metric to guage how often women are referenced. Rappers casually reference girls' names in a sexually explicit or misogynistic way ([Petey Pablo](http://genius.com/Petey-pablo-freek-a-leek-lyrics) I'm looking at you). How often is a woman's name mentioned in a song? Below is the same graph with orange line representing the average number of female names per song.
+Let's introduce a metric to guage how often women are referenced. Rappers casually reference girls' names in a sexually explicit or misogynistic way ([Petey Pablo](http://genius.com/Petey-pablo-freek-a-leek-lyrics) I'm looking at you). How often is a woman's name mentioned in a song? Below is the same graph as before with an added orange line representing the average number of female names per song.
 
 ![](/assets/post5_chart3.png)
 
-Interestingly, women are referenced much less frequently in today's music than that of 20 years ago while profanity has played a consistent role in rap songs. Could this change be attributed to a difference in gender of top rap artists? After all, female artists probably wouldn't talk about other females like men do.
+Interestingly, women are referenced much less frequently in today's music than that of 20 years ago while profanity has played a consistent role in rap songs. Could this change be attributed to a difference in gender of top rap artists? After all, female artists probably wouldn't talk about other females the way men do.
 
 ![](/assets/post5_chart4.png)
 
