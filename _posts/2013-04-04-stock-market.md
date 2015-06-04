@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      How some college kid doubled market returns
+title:      How Some College Kid Doubled Market Returns
 date:       2013-04-04 
 summary:    Exploring 'signaling' in the stock market
 og_image:   /assets/jayshah_bike.png

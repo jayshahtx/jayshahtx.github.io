@@ -2,8 +2,8 @@
 layout:     post
 title:      Rap Lyrics, Feminism, Love, and Statistics
 date:       2015-06-02
-summary:    Mining 20 years of rap lyrics to find patterns
-og_image:   /assets/jayshah_bike.png
+summary:    A statistical analysis of 25 years of rap lyrics
+og_image:   /assets/post5_chart5.png
 ---
 
 For a genre of music that is so casually dismissed as unintellectual, rap lyrics have been obsessively analyzed by academics, fans, and enthusiasts for decades. As an avid fan of rap music myself, I wanted to see if I could find any interesting patterns in lyrics from the past twenty years. After months of procrastinating this blog post, I finally buckled down to see what stories the data told.
@@ -14,7 +14,7 @@ Thanks to historical [Billboard charts](http://en.wikipedia.org/wiki/List_of_Bil
 
 ![](/assets/post5_chart1.png)
 
-You can quickly see that songs are staying at the top of the charts longer than they did twenty years ago. Let's dive in and find some more interesting patterns.
+You can quickly see that songs are staying at the top of the charts longer than they did 25 years ago. Let's dive in and find some more interesting patterns.
 
 # All kinds of bad words
 
@@ -54,7 +54,7 @@ While I enjoyed exploring the data, I am not surprised at my (mostly) inconclusi
 
 So much of it is opaque, up for intepretation, and worthy of analysis that discussions of lyrics rarely end in resolution. Whose lyrics have pushed the agenda for feminism more, Nicki Minaj or Beyonce? What do Drake's emotional themes suggest about this generation of listeners? Making graphs and cutting the data is always fun, but answering questions like these will take a lot more than a few regressions and trend lines.
 
-
+<br>
 
 
 
