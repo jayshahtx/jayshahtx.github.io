@@ -3,7 +3,6 @@ layout: page
 permalink: /projects/
 ---
 # Software
-
 * **Text to DJ**
   - DJ your next party with text messages [[Link](https://github.com/jayshahtx/text_to_dj)]
 
@@ -15,7 +14,7 @@ permalink: /projects/
 
 * **Stubhub Scraper**
   - Collect concert ticket data for thousands of events across the US [[Link](https://github.com/jayshahtx/StubHub-Scraper)]
-  
+
 # Academic
 
 * **CallScout** 
