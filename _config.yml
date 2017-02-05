@@ -3,7 +3,7 @@ title:       Jay Shah
 email:       jayshahtx@gmail.com
 author:      Jay Shah
 description: "Personal blog and projects"
-baseurl:     ""
+baseurl:     "/jayshahtx.github.io"
 url:         "http://jayshah.me"
 
 # gems
