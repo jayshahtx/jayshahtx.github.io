@@ -36,3 +36,5 @@ Today, thousands of students graduate from for-profit institutions in serious de
 
 So go ahead, take that interesting class with 17% A's. Join the university comedy club. Make the best of college while you're still here, just don't forget to wear deodorant.
 
+*Update: See [here](https://news.ycombinator.com/item?id=5591751) for a discussion of this article on Hacker News*
+

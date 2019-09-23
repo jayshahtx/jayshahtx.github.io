@@ -57,3 +57,5 @@ But I continued to post them - each night, I came back to my apartment and learn
 Whether we post interesting content or not though, our profile is frequented by those who have access. More than 10% of my friends clicked on most of my posts and I’m willing to bet you’d have similar results.
 
 The truth is that social media is a perpetual stage performance and we are all in the stands. Whether your audience is smaller or larger than mine is irrelevant - the microphone is on and they're all listening.
+
+*Update: See [here](https://news.ycombinator.com/item?id=5753897) for a discussion of this article on Hacker News*
